@@ -1,0 +1,6 @@
+add photo 
+the next branch 
+bug fixing at this level not affecting the master
+
+<This is a new file added a photo
+No it will be merged to the original after checking out>
