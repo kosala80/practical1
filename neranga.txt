@@ -1,1 +1,3 @@
-This is the working file
+Initialization: This is the working file
+
+Second rdit: A line added for staging and commiting.
