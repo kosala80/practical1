@@ -1,0 +1,3 @@
+add photo 
+the next branch 
+bug fixing at this level not affecting the master
